@@ -14,7 +14,7 @@ This way you will have activity on GitHub every hour.
 ## :wireless: Installation from source 
 
 ```console
-git clone https://github.com/1123581321345589144233377610/Autocommit-Every-Hour.git
+git clone https://github.com/dimamshirokov/Autocommit-Every-Hour.git
 ```
 ```console
 cd Autocommit-Every-Hour
@@ -31,7 +31,7 @@ Go to the folder /autocommit_every_hour
 cd autocommit_every_hour
 ```
 
-Open the file autocommit.py and enter your GitHub username in the USERNAME variable (For example, I have it: 1123581321345589144233377610). 
+Open the file autocommit.py and enter your GitHub username in the USERNAME variable (For example, I have it: dimamshirokov). 
 Next, in the REPOSITORY variable, write your repository in which you want to make an activity (For example, I have it: Autocommit-Every-Hour). 
 Next, you need to get your token. I'll tell you about it below.
 
@@ -63,4 +63,4 @@ If you wish, you can run the script on the server so that it always works.
 ## :octocat: Author
 
 **Dima M. Shirokov**
-- [GitHub](https://github.com/1123581321345589144233377610)
+- [GitHub](https://github.com/dimamshirokov)
